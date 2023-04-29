@@ -8,3 +8,6 @@ Welcome to digital garden using Obsidian and Jekyll garden theme. This file is l
 
 Check [[Hidden Note]] to know how to create notes which won't appear on the feed!
 
+This is going to be more a collection of random things I find interesting:
+
+- [[Cookbook]]
