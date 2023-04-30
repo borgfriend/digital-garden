@@ -4,7 +4,7 @@ feed: show
 date: 2023-04-30
 ---
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/PUP7U5vTMM0](https://www.youtube.com/embed/PUP7U5vTMM0)" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=PUP7U5vTMM0
 
 **Ingredients:**
 
