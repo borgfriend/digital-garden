@@ -8,7 +8,7 @@ date: 2023-05-03
 
 https://www.youtube.com/watch?v=ep6k3Ofcf2s
 
-![](/assets/img/Cookbook/american/Classic%20Cheeseburger%20-%20The%20Chef.jpg)
+![](../assets/img/Cookbook/american/Classic%20Cheeseburger%20-%20The%20Chef.jpg)
 
 In the movie the chef there is only one actually edible meal - the classic cheeseburger.
 
