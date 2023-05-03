@@ -10,6 +10,7 @@ Thank you for visiting my collection of delicious recipes! Here, you'll find a w
 ## Recipe Categories
 
 - [[Breakfast]]
+- [[Sandwiches]]
 
 
 ## Featured Recipes
@@ -17,3 +18,5 @@ Thank you for visiting my collection of delicious recipes! Here, you'll find a w
 
 ## Resources
 
+* [Adam Ragusea - YouTube](https://www.youtube.com/@aragusea)
+* [Chef Joshua Weissman's Recipes Directory](https://www.joshuaweissman.com/all-recipes)

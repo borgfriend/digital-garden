@@ -12,3 +12,4 @@ This is going to be more a collection of random things I find interesting:
 
 - [[Cookbook]]
 - [[Essays]]
+- [[Media]]
