@@ -11,6 +11,7 @@ Thank you for visiting my collection of delicious recipes! Here, you'll find a w
 
 - [[Breakfast]]
 - [[Sandwiches]]
+- [[American Cuisine]]
 
 
 ## Featured Recipes
